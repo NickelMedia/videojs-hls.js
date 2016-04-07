@@ -1,0 +1,9 @@
+{
+  "name": "videojs-hls.js",
+  "author": {
+    "name": "StreamRoot",
+    "email": "contact@streamroot.io"
+  },
+  "version": "0.0.2",
+  "main": "dist/vjs-hls.js"
+}
